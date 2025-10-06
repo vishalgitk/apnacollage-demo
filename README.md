@@ -1,4 +1,4 @@
-# apnacollage-demo
+ apnacollage-demo
 <br>
 This is my first git repository
-author - Vishal Kushwah
+author - Vishal Kushwah (apna collage)
